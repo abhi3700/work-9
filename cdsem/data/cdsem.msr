@@ -1,0 +1,385 @@
+>ver MF01 00.00
+/date        2018/09/24_09:57:49
+/device      DEVICE/HD
+/class       P_SH01T18SCL
+/recipe_name SH01T18SCL_CN_DI
+/operator    "1152"
+/lot_id      "F18180002.F1 WF15 E 175 F 0.1"
+/process     ""
+/equipment   ""
+/wafer_id    ""
+/comment     ""
+/confirm_start 2018/09/24 10:00:12
+/confirm_end   2018/09/24 10:00:15
+/port_name   A
+/fem_execution OFF
+~idw_info    ver IDW01 04.00
+~idw_info    history     : 7 sem 2018/02/28 12:15 CDB204
+~idw_info    history1    : 6 sem 2013/04/23 15:40 CDB204
+~idw_info    history2    : 5 sem 2013/04/23 15:40 CDB204
+~idw_info    history3    : 4 sem 2013/04/23 15:37 CDB204
+~idw_info    class       : P_SH01T18SCL
+~idw_info    idw_name    : SH01T18SCL
+~idw_info    wafer_size  : 200000000
+~idw_info    chip_array  : 10,10
+~idw_info    chip_pitch  : 21920000,21920000
+~idw_info    map_offset  : -40000,2960000
+~idw_info    map_origin  : 0,0
+~idw_info    chip_exist  :   9 : 0000000000 #0
+~idw_info    chip_exist  :   8 : 0000110000 #0
+~idw_info    chip_exist  :   7 : 0011111100 #0
+~idw_info    chip_exist  :   6 : 0111111110 #0
+~idw_info    chip_exist  :   5 : 0111111110 #0
+~idw_info    chip_exist  :   4 : 0111111110 #0
+~idw_info    chip_exist  :   3 : 0111111110 #0
+~idw_info    chip_exist  :   2 : 0011111100 #0
+~idw_info    chip_exist  :   1 : 0001111000 #0
+~idw_info    chip_exist  :   0 : 0000000000 #0
+~idw_info    numbering   : 1
+~idw_info    array       : 0 : 10,10
+~idw_info    pitch       : 0 : 21920000,21920000
+~idw_info    array       : 1 : 1,1
+~idw_info    array_data  : 0 : -98640000,-98640000,21920000,21920000,0,0,0
+~idw_info    array_data  : 0 : -98640000,-76720000,21920000,21920000,0,1,1
+~idw_info    array_data  : 0 : -98640000,-54800000,21920000,21920000,0,2,2
+~idw_info    array_data  : 0 : -98640000,-32880000,21920000,21920000,0,3,3
+~idw_info    array_data  : 0 : -98640000,-10960000,21920000,21920000,0,4,4
+~idw_info    array_data  : 0 : -98640000,10960000,21920000,21920000,0,5,5
+~idw_info    array_data  : 0 : -98640000,32880000,21920000,21920000,0,6,6
+~idw_info    array_data  : 0 : -98640000,54800000,21920000,21920000,0,7,7
+~idw_info    array_data  : 0 : -98640000,76720000,21920000,21920000,0,8,8
+~idw_info    array_data  : 0 : -98640000,98640000,21920000,21920000,0,9,9
+~idw_info    array_data  : 0 : -76720000,-98640000,21920000,21920000,1,0,10
+~idw_info    array_data  : 0 : -76720000,-76720000,21920000,21920000,1,1,11
+~idw_info    array_data  : 0 : -76720000,-54800000,21920000,21920000,1,2,12
+~idw_info    array_data  : 0 : -76720000,-32880000,21920000,21920000,1,3,13
+~idw_info    array_data  : 0 : -76720000,-10960000,21920000,21920000,1,4,14
+~idw_info    array_data  : 0 : -76720000,10960000,21920000,21920000,1,5,15
+~idw_info    array_data  : 0 : -76720000,32880000,21920000,21920000,1,6,16
+~idw_info    array_data  : 0 : -76720000,54800000,21920000,21920000,1,7,17
+~idw_info    array_data  : 0 : -76720000,76720000,21920000,21920000,1,8,18
+~idw_info    array_data  : 0 : -76720000,98640000,21920000,21920000,1,9,19
+~idw_info    array_data  : 0 : -54800000,-98640000,21920000,21920000,2,0,20
+~idw_info    array_data  : 0 : -54800000,-76720000,21920000,21920000,2,1,21
+~idw_info    array_data  : 0 : -54800000,-54800000,21920000,21920000,2,2,22
+~idw_info    array_data  : 0 : -54800000,-32880000,21920000,21920000,2,3,23
+~idw_info    array_data  : 0 : -54800000,-10960000,21920000,21920000,2,4,24
+~idw_info    array_data  : 0 : -54800000,10960000,21920000,21920000,2,5,25
+~idw_info    array_data  : 0 : -54800000,32880000,21920000,21920000,2,6,26
+~idw_info    array_data  : 0 : -54800000,54800000,21920000,21920000,2,7,27
+~idw_info    array_data  : 0 : -54800000,76720000,21920000,21920000,2,8,28
+~idw_info    array_data  : 0 : -54800000,98640000,21920000,21920000,2,9,29
+~idw_info    array_data  : 0 : -32880000,-98640000,21920000,21920000,3,0,30
+~idw_info    array_data  : 0 : -32880000,-76720000,21920000,21920000,3,1,31
+~idw_info    array_data  : 0 : -32880000,-54800000,21920000,21920000,3,2,32
+~idw_info    array_data  : 0 : -32880000,-32880000,21920000,21920000,3,3,33
+~idw_info    array_data  : 0 : -32880000,-10960000,21920000,21920000,3,4,34
+~idw_info    array_data  : 0 : -32880000,10960000,21920000,21920000,3,5,35
+~idw_info    array_data  : 0 : -32880000,32880000,21920000,21920000,3,6,36
+~idw_info    array_data  : 0 : -32880000,54800000,21920000,21920000,3,7,37
+~idw_info    array_data  : 0 : -32880000,76720000,21920000,21920000,3,8,38
+~idw_info    array_data  : 0 : -32880000,98640000,21920000,21920000,3,9,39
+~idw_info    array_data  : 0 : -10960000,-98640000,21920000,21920000,4,0,40
+~idw_info    array_data  : 0 : -10960000,-76720000,21920000,21920000,4,1,41
+~idw_info    array_data  : 0 : -10960000,-54800000,21920000,21920000,4,2,42
+~idw_info    array_data  : 0 : -10960000,-32880000,21920000,21920000,4,3,43
+~idw_info    array_data  : 0 : -10960000,-10960000,21920000,21920000,4,4,44
+~idw_info    array_data  : 0 : -10960000,10960000,21920000,21920000,4,5,45
+~idw_info    array_data  : 0 : -10960000,32880000,21920000,21920000,4,6,46
+~idw_info    array_data  : 0 : -10960000,54800000,21920000,21920000,4,7,47
+~idw_info    array_data  : 0 : -10960000,76720000,21920000,21920000,4,8,48
+~idw_info    array_data  : 0 : -10960000,98640000,21920000,21920000,4,9,49
+~idw_info    array_data  : 0 : 10960000,-98640000,21920000,21920000,5,0,50
+~idw_info    array_data  : 0 : 10960000,-76720000,21920000,21920000,5,1,51
+~idw_info    array_data  : 0 : 10960000,-54800000,21920000,21920000,5,2,52
+~idw_info    array_data  : 0 : 10960000,-32880000,21920000,21920000,5,3,53
+~idw_info    array_data  : 0 : 10960000,-10960000,21920000,21920000,5,4,54
+~idw_info    array_data  : 0 : 10960000,10960000,21920000,21920000,5,5,55
+~idw_info    array_data  : 0 : 10960000,32880000,21920000,21920000,5,6,56
+~idw_info    array_data  : 0 : 10960000,54800000,21920000,21920000,5,7,57
+~idw_info    array_data  : 0 : 10960000,76720000,21920000,21920000,5,8,58
+~idw_info    array_data  : 0 : 10960000,98640000,21920000,21920000,5,9,59
+~idw_info    array_data  : 0 : 32880000,-98640000,21920000,21920000,6,0,60
+~idw_info    array_data  : 0 : 32880000,-76720000,21920000,21920000,6,1,61
+~idw_info    array_data  : 0 : 32880000,-54800000,21920000,21920000,6,2,62
+~idw_info    array_data  : 0 : 32880000,-32880000,21920000,21920000,6,3,63
+~idw_info    array_data  : 0 : 32880000,-10960000,21920000,21920000,6,4,64
+~idw_info    array_data  : 0 : 32880000,10960000,21920000,21920000,6,5,65
+~idw_info    array_data  : 0 : 32880000,32880000,21920000,21920000,6,6,66
+~idw_info    array_data  : 0 : 32880000,54800000,21920000,21920000,6,7,67
+~idw_info    array_data  : 0 : 32880000,76720000,21920000,21920000,6,8,68
+~idw_info    array_data  : 0 : 32880000,98640000,21920000,21920000,6,9,69
+~idw_info    array_data  : 0 : 54800000,-98640000,21920000,21920000,7,0,70
+~idw_info    array_data  : 0 : 54800000,-76720000,21920000,21920000,7,1,71
+~idw_info    array_data  : 0 : 54800000,-54800000,21920000,21920000,7,2,72
+~idw_info    array_data  : 0 : 54800000,-32880000,21920000,21920000,7,3,73
+~idw_info    array_data  : 0 : 54800000,-10960000,21920000,21920000,7,4,74
+~idw_info    array_data  : 0 : 54800000,10960000,21920000,21920000,7,5,75
+~idw_info    array_data  : 0 : 54800000,32880000,21920000,21920000,7,6,76
+~idw_info    array_data  : 0 : 54800000,54800000,21920000,21920000,7,7,77
+~idw_info    array_data  : 0 : 54800000,76720000,21920000,21920000,7,8,78
+~idw_info    array_data  : 0 : 54800000,98640000,21920000,21920000,7,9,79
+~idw_info    array_data  : 0 : 76720000,-98640000,21920000,21920000,8,0,80
+~idw_info    array_data  : 0 : 76720000,-76720000,21920000,21920000,8,1,81
+~idw_info    array_data  : 0 : 76720000,-54800000,21920000,21920000,8,2,82
+~idw_info    array_data  : 0 : 76720000,-32880000,21920000,21920000,8,3,83
+~idw_info    array_data  : 0 : 76720000,-10960000,21920000,21920000,8,4,84
+~idw_info    array_data  : 0 : 76720000,10960000,21920000,21920000,8,5,85
+~idw_info    array_data  : 0 : 76720000,32880000,21920000,21920000,8,6,86
+~idw_info    array_data  : 0 : 76720000,54800000,21920000,21920000,8,7,87
+~idw_info    array_data  : 0 : 76720000,76720000,21920000,21920000,8,8,88
+~idw_info    array_data  : 0 : 76720000,98640000,21920000,21920000,8,9,89
+~idw_info    array_data  : 0 : 98640000,-98640000,21920000,21920000,9,0,90
+~idw_info    array_data  : 0 : 98640000,-76720000,21920000,21920000,9,1,91
+~idw_info    array_data  : 0 : 98640000,-54800000,21920000,21920000,9,2,92
+~idw_info    array_data  : 0 : 98640000,-32880000,21920000,21920000,9,3,93
+~idw_info    array_data  : 0 : 98640000,-10960000,21920000,21920000,9,4,94
+~idw_info    array_data  : 0 : 98640000,10960000,21920000,21920000,9,5,95
+~idw_info    array_data  : 0 : 98640000,32880000,21920000,21920000,9,6,96
+~idw_info    array_data  : 0 : 98640000,54800000,21920000,21920000,9,7,97
+~idw_info    array_data  : 0 : 98640000,76720000,21920000,21920000,9,8,98
+~idw_info    array_data  : 0 : 98640000,98640000,21920000,21920000,9,9,99
+~idw_info    array_data  : 1 : 0,0,21920000,21920000,0,0,0
+~total_of_mp_name     1
+~mp_name     2 : "ISO-1"
+~total_of_ctrl_value  1
+~ctrl_value  2 428 392 357 321 285
+#data 01
+  @slot_no        15
+  @no_of_sequence 5
+  @no_of_chip     5
+  @no_of_mp       1
+  @no_of_data_no  1
+  @load_start    2018/09/24 09:54:39
+  @load_end      2018/09/24 09:58:05
+  @measure_start 2018/09/24 09:58:04
+  @measure_end   2018/09/24 10:00:10
+  @unload_start  2018/09/24 10:00:10
+  @unload_end    2018/09/24 10:00:10
+  @no_of_ap_image 0
+  $width 01 MP-2 2,4 10652380,10936130 4721
+    &data_no 2 -1
+    &width_info 1 1 0 16
+    &width_stat 4721 4719 4773 4692
+    &width_stage 94458582,140123062
+    &width_data 01 4732
+    &width_data 02 4730
+    &width_data 03 4712
+    &width_data 04 4714
+    &width_data 05 4714
+    &width_data 06 4714
+    &width_data 07 4719
+    &width_data 08 4724
+    &width_data 09 4705
+    &width_data 10 4692
+    &width_data 11 4707
+    &width_data 12 4694
+    &width_data 13 4699
+    &width_data 14 4740
+    &width_data 15 4773
+    &width_data 16 4768
+    &no_of_mp_image 1
+    &mp_image_name 01 S15_M0001-01MS.jpeg
+      ~image_info    Accelerating_voltage    800 V
+      ~image_info    Probe_current           5.0 pA
+      ~image_info    Magnification           90040
+      ~image_info    Number_of_frames        32
+      ~image_info    Image_rotation          0.0 deg
+      ~image_info    Chip_number             2,4
+      ~image_info    Chip_coordinate         10652 um, 10936 um
+      ~image_info    Wafer_coordinate        94459 um, 140123 um
+      ~image_info    Date_&_Time             Mon Sep 24 09:58:58 2018
+      ~image_info    !Mag_high_res           90040195
+      ~image_info    !MSRL_parameter         1000000,0,209,50,99628
+      ~image_info    !FMSR_parameter         1.00089,1.00000,1.000000,0.0000,2.09,0.0050,0.99540
+      ~image_info    Field_Size              1.499 um, 1.499 um
+      ~image_info    Comment1                ""
+      ~image_info    Comment2                ""
+      ~image_info    Comment3                ""
+      ~image_info    Comment4                ""
+      ~image_info    Comment5                ""
+      ~image_info    Equipment               CDB204 SERIAL NO. : 0325-039300
+      ~image_info    Operator                sem
+      ~image_info    !Cursor_inf             -1,-1,990,4130,-1,-1,-1,-1,-1,-1,1,1,-1,1," 472.1 nm",""
+    &no_of_profile 0
+  $width 02 MP-2 5,2 10652380,10936130 4795
+    &data_no 2 -1
+    &width_info 1 1 0 16
+    &width_stat 4795 4795 4832 4758
+    &width_stage 160527086,96751286
+    &width_data 01 4762
+    &width_data 02 4788
+    &width_data 03 4792
+    &width_data 04 4820
+    &width_data 05 4832
+    &width_data 06 4824
+    &width_data 07 4818
+    &width_data 08 4796
+    &width_data 09 4780
+    &width_data 10 4786
+    &width_data 11 4796
+    &width_data 12 4808
+    &width_data 13 4800
+    &width_data 14 4788
+    &width_data 15 4775
+    &width_data 16 4758
+    &no_of_mp_image 1
+    &mp_image_name 01 S15_M0002-01MS.jpeg
+      ~image_info    Accelerating_voltage    800 V
+      ~image_info    Probe_current           5.0 pA
+      ~image_info    Magnification           90037
+      ~image_info    Number_of_frames        32
+      ~image_info    Image_rotation          0.0 deg
+      ~image_info    Chip_number             5,2
+      ~image_info    Chip_coordinate         10652 um, 10936 um
+      ~image_info    Wafer_coordinate        160527 um, 96751 um
+      ~image_info    Date_&_Time             Mon Sep 24 09:59:16 2018
+      ~image_info    !Mag_high_res           90036734
+      ~image_info    !MSRL_parameter         1000000,0,209,50,99628
+      ~image_info    !FMSR_parameter         1.00089,1.00000,1.000000,0.0000,2.09,0.0050,0.99540
+      ~image_info    Field_Size              1.499 um, 1.499 um
+      ~image_info    Comment1                ""
+      ~image_info    Comment2                ""
+      ~image_info    Comment3                ""
+      ~image_info    Comment4                ""
+      ~image_info    Comment5                ""
+      ~image_info    Equipment               CDB204 SERIAL NO. : 0325-039300
+      ~image_info    Operator                sem
+      ~image_info    !Cursor_inf             -1,-1,990,4130,-1,-1,-1,-1,-1,-1,1,1,-1,1," 479.5 nm",""
+    &no_of_profile 0
+  $width 03 MP-2 5,4 10652380,10936130 4677
+    &data_no 2 -1
+    &width_info 1 1 0 16
+    &width_stat 4677 4676 4720 4654
+    &width_stage 160216257,140589513
+    &width_data 01 4663
+    &width_data 02 4655
+    &width_data 03 4654
+    &width_data 04 4678
+    &width_data 05 4673
+    &width_data 06 4692
+    &width_data 07 4711
+    &width_data 08 4715
+    &width_data 09 4720
+    &width_data 10 4699
+    &width_data 11 4679
+    &width_data 12 4665
+    &width_data 13 4661
+    &width_data 14 4656
+    &width_data 15 4662
+    &width_data 16 4656
+    &no_of_mp_image 1
+    &mp_image_name 01 S15_M0003-01MS.jpeg
+      ~image_info    Accelerating_voltage    800 V
+      ~image_info    Probe_current           5.0 pA
+      ~image_info    Magnification           90018
+      ~image_info    Number_of_frames        32
+      ~image_info    Image_rotation          0.0 deg
+      ~image_info    Chip_number             5,4
+      ~image_info    Chip_coordinate         10652 um, 10936 um
+      ~image_info    Wafer_coordinate        160216 um, 140590 um
+      ~image_info    Date_&_Time             Mon Sep 24 09:59:35 2018
+      ~image_info    !Mag_high_res           90018132
+      ~image_info    !MSRL_parameter         1000000,0,209,50,99628
+      ~image_info    !FMSR_parameter         1.00089,1.00000,1.000000,0.0000,2.09,0.0050,0.99540
+      ~image_info    Field_Size              1.499 um, 1.499 um
+      ~image_info    Comment1                ""
+      ~image_info    Comment2                ""
+      ~image_info    Comment3                ""
+      ~image_info    Comment4                ""
+      ~image_info    Comment5                ""
+      ~image_info    Equipment               CDB204 SERIAL NO. : 0325-039300
+      ~image_info    Operator                sem
+      ~image_info    !Cursor_inf             -1,-1,990,4130,-1,-1,-1,-1,-1,-1,1,1,-1,1," 467.7 nm",""
+    &no_of_profile 0
+  $width 04 MP-2 5,7 10652380,10936130 4649
+    &data_no 2 -1
+    &width_info 1 1 0 16
+    &width_stat 4649 4649 4671 4623
+    &width_stage 159749907,206347507
+    &width_data 01 4671
+    &width_data 02 4656
+    &width_data 03 4656
+    &width_data 04 4623
+    &width_data 05 4630
+    &width_data 06 4649
+    &width_data 07 4635
+    &width_data 08 4654
+    &width_data 09 4641
+    &width_data 10 4624
+    &width_data 11 4652
+    &width_data 12 4650
+    &width_data 13 4660
+    &width_data 14 4665
+    &width_data 15 4656
+    &width_data 16 4658
+    &no_of_mp_image 1
+    &mp_image_name 01 S15_M0004-01MS.jpeg
+      ~image_info    Accelerating_voltage    800 V
+      ~image_info    Probe_current           5.0 pA
+      ~image_info    Magnification           90040
+      ~image_info    Number_of_frames        32
+      ~image_info    Image_rotation          0.0 deg
+      ~image_info    Chip_number             5,7
+      ~image_info    Chip_coordinate         10652 um, 10936 um
+      ~image_info    Wafer_coordinate        159750 um, 206348 um
+      ~image_info    Date_&_Time             Mon Sep 24 09:59:53 2018
+      ~image_info    !Mag_high_res           90040195
+      ~image_info    !MSRL_parameter         1000000,0,209,50,99628
+      ~image_info    !FMSR_parameter         1.00089,1.00000,1.000000,0.0000,2.09,0.0050,0.99540
+      ~image_info    Field_Size              1.499 um, 1.499 um
+      ~image_info    Comment1                ""
+      ~image_info    Comment2                ""
+      ~image_info    Comment3                ""
+      ~image_info    Comment4                ""
+      ~image_info    Comment5                ""
+      ~image_info    Equipment               CDB204 SERIAL NO. : 0325-039300
+      ~image_info    Operator                sem
+      ~image_info    !Cursor_inf             -1,-1,990,4130,-1,-1,-1,-1,-1,-1,1,1,-1,1," 464.9 nm",""
+    &no_of_profile 0
+  $width 05 MP-2 7,4 10652380,10936130 4736
+    &data_no 2 -1
+    &width_info 1 1 0 16
+    &width_stat 4736 4736 4771 4697
+    &width_stage 204054673,140900703
+    &width_data 01 4737
+    &width_data 02 4757
+    &width_data 03 4771
+    &width_data 04 4758
+    &width_data 05 4746
+    &width_data 06 4729
+    &width_data 07 4700
+    &width_data 08 4697
+    &width_data 09 4707
+    &width_data 10 4722
+    &width_data 11 4758
+    &width_data 12 4766
+    &width_data 13 4756
+    &width_data 14 4735
+    &width_data 15 4727
+    &width_data 16 4705
+    &no_of_mp_image 1
+    &mp_image_name 01 S15_M0005-01MS.jpeg
+      ~image_info    Accelerating_voltage    800 V
+      ~image_info    Probe_current           5.0 pA
+      ~image_info    Magnification           90057
+      ~image_info    Number_of_frames        32
+      ~image_info    Image_rotation          0.0 deg
+      ~image_info    Chip_number             7,4
+      ~image_info    Chip_coordinate         10652 um, 10936 um
+      ~image_info    Wafer_coordinate        204055 um, 140901 um
+      ~image_info    Date_&_Time             Mon Sep 24 10:00:10 2018
+      ~image_info    !Mag_high_res           90056914
+      ~image_info    !MSRL_parameter         1000000,0,209,50,99628
+      ~image_info    !FMSR_parameter         1.00089,1.00000,1.000000,0.0000,2.09,0.0050,0.99540
+      ~image_info    Field_Size              1.499 um, 1.499 um
+      ~image_info    Comment1                ""
+      ~image_info    Comment2                ""
+      ~image_info    Comment3                ""
+      ~image_info    Comment4                ""
+      ~image_info    Comment5                ""
+      ~image_info    Equipment               CDB204 SERIAL NO. : 0325-039300
+      ~image_info    Operator                sem
+      ~image_info    !Cursor_inf             -1,-1,990,4130,-1,-1,-1,-1,-1,-1,1,1,-1,1," 473.6 nm",""
+    &no_of_profile 0
+/end_of_file
