@@ -5,7 +5,7 @@ from re import search
 How to find the file as "tab separated values"?
 - find out in  "Save as" whether "Tab-separated" or "Comma-separated" 
 """
-df = pd.read_csv('data\\cdsem.msr', sep= '\t')
+df = pd.read_csv('data/cdsem.msr', sep= '\t')
 
 cdsemlist = df[df.columns[0]].tolist()
 # print(cdsemlist)
