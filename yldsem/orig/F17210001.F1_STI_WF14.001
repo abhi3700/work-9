@@ -15,7 +15,7 @@ DiePitch 21899.4 21899.6;
 DieOrigin 0 0;
 WaferID "14";
 Slot 14;
-SampleCenterLocation xxx xxx;
+SampleCenterLocation 21989.6 235.865;
 InspectionTest 1;
 SampleTestPlan 28
   2 -3 
